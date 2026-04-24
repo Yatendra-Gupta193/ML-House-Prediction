@@ -6,7 +6,7 @@ The objective is to predict house prices based on multiple features after perfor
  
 ## 📌 Project Overview
 
-The workflow includes:
+The workflow includes: 
 - Data cleaning and handling missing values
 - Exploratory Data Analysis (EDA)
 - Feature scaling 
