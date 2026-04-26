@@ -13,7 +13,7 @@ The workflow includes:
 - Training and comparing multiple regression models
 - Model evaluation using *cross-validation (R² score)*
 - Hyperparameter tuning using *GridSearchCV*
-- Visualizing model performance using prediction plots 
+- Visualizing model performance using prediction plots  
 
 After comparing different models, *Gradient Boosting Regressor* was selected as the final model and achieved an *R² score of ~89%*.
 
